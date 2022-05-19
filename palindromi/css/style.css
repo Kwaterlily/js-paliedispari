@@ -1,0 +1,7 @@
+[class*="col-"], .col {
+    min-height: 100px;
+}
+
+h4 {
+    color: rgb(127, 2, 168);
+}
