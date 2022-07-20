@@ -2,6 +2,14 @@
     min-height: 100px;
 }
 
-h4 {
+body {
+    background-color: lavender;
+}
+
+h4{
+    color:rgb(2, 168, 129);
+}
+
+#vincita {
     color: rgb(127, 2, 168);
 }
